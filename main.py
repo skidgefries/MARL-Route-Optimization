@@ -593,8 +593,8 @@ ax4.legend()
 ax4.grid(True, alpha=0.3)
 
 plt.tight_layout()
-plt.savefig('enhanced_marl_results.png', dpi=300, bbox_inches='tight')
+plt.savefig('marl_results.png', dpi=300, bbox_inches='tight')
 plt.show()
 
 print("Enhanced analysis complete!")
-print("Graph saved: enhanced_marl_results.png")
+print("Graph saved: marl_results.png")
